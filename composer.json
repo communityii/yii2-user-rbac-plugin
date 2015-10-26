@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-rbac",
+    "name": "communityii/yii2-rbac",
     "description": "Role based access management module for Yii framework 2.0",
     "keywords": ["yii2", "extension", "module", "rbac", "user", "role", "access", "control"],
     "homepage": "https://github.com/kartik-v/yii2-rbac",
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "kartik-v/yii2-krajee-base": "~1.7",
+        "kartik-v/yii2-krajee-base": "~1.7"
     },
     "autoload": {
         "psr-4": {
