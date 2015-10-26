@@ -1,2 +1,3 @@
-# yii2-rbac
-Role based access management for Yii 2 framework
+# yii2-user-rbac-plugin
+
+Role based access management plugin for `communityii/yii2-user`
