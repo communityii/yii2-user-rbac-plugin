@@ -1,2 +1,2 @@
 # yii2-rbac
-Role base access management for Yii 2 framework
+Role based access management for Yii 2 framework
